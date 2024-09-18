@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eerah/mondrian/static/css/main.337d465a.css",
-    "main.js": "/eerah/mondrian/static/js/main.a4b2e342.js",
-    "static/js/453.4f9d12d2.chunk.js": "/eerah/mondrian/static/js/453.4f9d12d2.chunk.js",
-    "index.html": "/eerah/mondrian/index.html",
-    "main.337d465a.css.map": "/eerah/mondrian/static/css/main.337d465a.css.map",
-    "main.a4b2e342.js.map": "/eerah/mondrian/static/js/main.a4b2e342.js.map",
-    "453.4f9d12d2.chunk.js.map": "/eerah/mondrian/static/js/453.4f9d12d2.chunk.js.map"
+    "main.css": "/mondrian/static/css/main.337d465a.css",
+    "main.js": "/mondrian/static/js/main.a1dd4992.js",
+    "static/js/453.4f9d12d2.chunk.js": "/mondrian/static/js/453.4f9d12d2.chunk.js",
+    "index.html": "/mondrian/index.html",
+    "main.337d465a.css.map": "/mondrian/static/css/main.337d465a.css.map",
+    "main.a1dd4992.js.map": "/mondrian/static/js/main.a1dd4992.js.map",
+    "453.4f9d12d2.chunk.js.map": "/mondrian/static/js/453.4f9d12d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.337d465a.css",
-    "static/js/main.a4b2e342.js"
+    "static/js/main.a1dd4992.js"
   ]
 }
