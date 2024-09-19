@@ -64,8 +64,13 @@ body {
 }
 
 .placed-block {
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 1px solid #000;
+  box-sizing: border-box;
   transition: all 0.3s ease;
 }
 
@@ -171,3 +176,8 @@ body {
     max-width: 400px;
   }
 }
+
+.placed-block.border-top { border-top-width: 3px; }
+.placed-block.border-right { border-right-width: 3px; }
+.placed-block.border-bottom { border-bottom-width: 3px; }
+.placed-block.border-left { border-left-width: 3px; }
